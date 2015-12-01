@@ -1,0 +1,193 @@
+﻿.synopsis-Top
+{
+	margin:0px auto;
+	width:100%;
+	text-align: center;
+	vertical-align:middle;
+    background-color:#0160b9;
+}
+.synopsis-Top-Logo
+{
+    height:100px;
+}
+
+.synopsis-Top-China
+{	
+	text-align:right;
+	padding-right:5px;
+}
+.synopsis-Top-Txt
+{
+	text-align:left;
+    padding-left:5px;
+}
+
+.synopsis-Top-Txt p
+{
+	text-align: left;
+	text-indent: 0pt;
+	margin: 0pt 0pt 3pt 12pt;
+	line-height: 1.2;
+	font-size: 16px;
+	font-family: Verdana, Arial, Helvetica, AppleGothic, sans-serif;
+	color:White;
+}
+
+.synopsis-Version
+{
+    margin:0px auto;
+	width:100%;
+}
+.synopsis-Version .Caption
+{
+    font-weight: bold;
+    font-size: 16px;
+    padding-top:5px;
+    padding-bottom:5px;
+}
+.synopsis-Version p
+{	
+    margin: 3pt 0pt 3pt 0pt;
+    font-size: 14px;
+	font-family: Verdana, Arial, Helvetica, AppleGothic, sans-serif;
+	line-height: 2;
+}
+
+
+/****** Synopsis &&  Airport *******/
+.airport-Container
+{
+	margin:0 auto;
+}
+.airport-Container-Item
+{
+	width:100%;	
+	padding-bottom:10px;
+	min-width:580px;
+}
+
+
+.airport-Table
+{
+	width:100%;	
+	border-collapse: collapse;
+	table-layout:fixed;
+    word-wrap:break-word;
+    word-break:break-all;
+}
+
+.airport-Table th
+{
+	padding: 5px;
+	font-size:12px;
+	font-family: Verdana, Arial, Helvetica, AppleGothic, sans-serif;
+	color: #FFF;
+	text-align: left;
+	background-color:#00253d;
+	border: 1px #00253d solid;
+	height: 18px;
+	white-space: normal;
+}
+
+.airport-Table td
+{
+	padding: 5px 5px 5px 5px;
+    font-size: 12px;
+    font-family: Verdana, Arial, Helvetica, AppleGothic, sans-serif;
+	border: 1px #999 solid;
+	white-space: normal;
+}
+
+
+
+
+/***********************************/
+
+
+
+.airport-Table-TD-One
+{
+	border:1px solid gray;
+	padding: 3px 0 2px 5px;
+	background-color: #ededed;
+}
+.airport-Table-TD-Two
+{
+	border:1px solid gray;
+	padding: 3px 0 2px 5px;
+	background-color: #FFF;
+}
+
+.airport-Table-TD-Caption
+{
+	border:1px solid gray;
+	padding: 3px 0 2px 5px;
+	background-color:#d5d5d5;
+}
+
+.airport-Table-TD-Caption-ID
+{
+	border:1px solid gray;
+	padding: 3px 0 2px 5px;
+	background-color:#ededed;
+	text-align:center;
+}
+
+.airport-Table-TD-Caption-Tile
+{
+	border:1px solid gray;
+	padding: 3px 0 2px 5px;
+	background-color:#ededed;
+}
+
+.airport-Table-TD-TwoTile
+{
+	background-color:#366686;
+	color:#FFF;
+}
+.airport-Table-TR p
+{
+    padding: 0px;
+	margin: 0px;
+}
+.airport-Table-TR:hover
+{
+    background: #fffac7;
+}
+.airport-Table-TR:hover td
+{
+    background:none;
+}
+
+.airport-Table-TR a
+{
+    display:block;
+	width:66px;
+	height:20px;
+	color:#fff;
+	line-height:20px;
+	background:url(Image/down.png);
+	margin:auto;
+	text-decoration:none;
+	text-align:center;
+	text-indent:12px;
+}
+.airport-Table-TR a:hover
+{
+    display:block;
+	width:66px;
+	height:20px;
+	color:#fff;
+	line-height:20px;
+	background:url(Image/down_hover.png);
+	margin:auto;
+	text-decoration:none;
+	text-align:center;
+	text-indent:12px;
+}
+
+.pdf-div
+{   
+    background-color: #FFF;
+    height:100%;
+}
