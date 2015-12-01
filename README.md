@@ -1,9 +1,7 @@
 # eAIP-2015-Nr.13
 All documentations of eAIP China, version 2015 Nr.13
 
-.
-
-## Information on this eAIP:
+### Information on this eAIP:
 
 Effective time:1512091600
 
@@ -17,15 +15,11 @@ Part2: EN-ROUTE
 
 Part3: Aerodromes
 
-.
-
-## Download_eAIP_2015_Nr.13.py
+### Download_eAIP_2015_Nr.13.py
 
 This python script can be used to download all of them except css/js files for the htm  of aerodromes.
 
-.
-
-## All of documentations
+### All of documentations
 
 If you just want to get all of documentations, please download all of this repository, 
 
